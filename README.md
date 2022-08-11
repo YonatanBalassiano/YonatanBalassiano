@@ -20,18 +20,14 @@
 
 - 🎨 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=1a73e8)
 - 🧰 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=1a73e8)
-  ![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=6d4a80)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React-Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 
 - 🛢  &nbsp;
@@ -64,5 +60,5 @@
 "/>][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/YonatanBalassiano/
+[linkedin]: www.linkedin.com/in/yonatan-balassiano-736791233
 [gmail]: mailto:yonatan.bala@gmail.com
