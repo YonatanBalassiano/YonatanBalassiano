@@ -6,10 +6,13 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-✔	2nd-year student at Ben Gurion University earning a bachelor's degree in computer science 
-✔	Looking for a job opportunity as a developer
-✔	Problem solver, self-taught. Have a high level of independence
-✔	Hard worker, diligent and responsible
+✔	2nd-year student at Ben Gurion University earning a bachelor's degree in computer science.
+
+✔	Looking for a job opportunity as a developer.
+
+✔	Problem solver, self-taught. Have a high level of independence.
+
+✔	Hard worker, diligent and responsible.
 
   
 <hr />
