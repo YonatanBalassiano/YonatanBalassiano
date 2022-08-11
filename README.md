@@ -31,10 +31,8 @@
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 
 - 🛢  &nbsp;
-  &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
+ 
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -48,16 +46,6 @@
 
 
 
-
-<p>
-  <div class="github-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=YonatanBalassiano&theme=onedark&show_icons=true&hide=issues" />
-  </div>
-</p>
-
-### 📝 Contact Me 
-[<img align="left" alt="YonatanBalassiano | LinkedIn" height="40px" src="www.linkedin.com/in/yonatan-balassiano-736791233
-"/>][linkedin]
 
 
 [linkedin]: www.linkedin.com/in/yonatan-balassiano-736791233
