@@ -41,7 +41,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
-  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom&logoColor=5d2b90)
+  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom)
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij)
 
 
 
